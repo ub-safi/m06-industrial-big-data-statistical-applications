@@ -1,2 +1,17 @@
-# m06-industrial-big-data-statistical-applications
-Learn about the M06 "Statistical Applications of Industrial Big Data"
+# M06 "Statistical Applications of Industrial Big Data"
+
+*description*
+
+
+
+## Prerequisites
+
+- *English level*
+- *technical*
+- *previous courses*
+
+
+
+## Upcoming Sessions
+
+*dates*
