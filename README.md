@@ -17,16 +17,10 @@
 
 ## Upcoming Sessions
 
-**September/October 2023 (5 days)**
-- 27-28.09.2023
-- 04-05.10.2023
-- 10.10.2023
-- each day from 9am to 5pm (CET time)
-
-**November 2023 (5 days)** @ Renault
+**June 2024 (5 days)**
 <!--![Renault](https://img.shields.io/static/v1?label=venue&labelColor=white&message=Renault&color=black)-->
-- 13-16.11.2023 (onsite)
-- 21.11.2023 (remote)
+- 05-06.06.2024
+- 12-14.06.2024
 - each day from 9am to 5pm (CET time)
 
 
