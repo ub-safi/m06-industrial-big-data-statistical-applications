@@ -1,7 +1,7 @@
 # M06 "Statistical Applications of Industrial Big Data"
 
 ## PUBLIC CONCERNÉ
-The course is intended to professional Engineers, Project Managers, Data Analysts and Computer Scientists with responsibilities in new product design, planning and development, or current product quality management who wish to develop advanced knowledge and skills in the application of statistical methods in support of robust data-based decision-making.
+Cette formation s’adresse aux ingénieurs professionnels, aux chefs de projet, aux analystes de données et aux informaticiens ayant des responsabilités dans la conception, la planification et le développement de nouveaux produits, ou dans la gestion de la qualité des produits actuels, et qui souhaitent développer des connaissances et des compétences avancées dans l’application de méthodes statistiques à l’appui d’une prise de décision solide fondée sur des données.
 
 
 ## PRÉREQUIS
@@ -33,12 +33,12 @@ La formation est dispensée sous forme de classe virtuelle sous Teams. Informati
 
 
 ## SUIVI ET EVALUATION
-- Attendance sheet signed each half day by the participants and co-signed by ASTE
-- Learning assessment based on:
-    - individual or group presentation with argument on a mini-project
-    - Individual plan for application around a specific project in the workplace of the participant (plan based on the methods and tools from the course)
-- Training performance: qualitative assessment of the training by attendants at the end of the session
-- Delivery of a training certificate
+- Feuille d’émargement signée chaque demi-journée par le stagiaire et cosignée par l’ASTE
+- Évaluation de l’apprentissage basée sur :
+    - une présentation individuelle ou en groupe avec argumentation sur un mini projet
+    - un plan individuel d’application autour d’un projet spécifique sur le lieu de travail du stagiaire (plan basé sur les méthodes et outils du cours)
+- Évaluation de la formation par les participants
+- Remise d’une attestation de formation
 
 
 
