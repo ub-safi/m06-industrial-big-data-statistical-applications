@@ -54,41 +54,42 @@ La formation est dispensée sous forme de classe virtuelle sous Teams. Informati
 
 
 ## OBJECTIFS DE LA FORMATION
-Upon completion of this module, the participant will be able to:
-- Take the initiative in reviewing solutions for big data statistical analysis and processing.
-- Analyse available data and produce results, or guide toward appropriate applications of Big Data Statistical Analysis.
-- Identify correlations and construct statistical models from Engineering Big Data Resources.
-- Interpret the results and explain them to non-specialists.
-- Use practical software tools, with a focus on workflow design and experimentation.
+A l’issue de ce module, le participant sera capable de :
+- Prendre des initiatives dans l’examen des solutions d’analyse et de traitement statistique des Big Data
+- Analyser les données disponibles et produire des résultats, ou guider vers les applications appropriées en matière d’analyse statistique des Big Data
+- Identifier les corrélations et construire des modèles statistiques à partir des ressources Big Data de l’ingénierie
+- Interpréter les résultats et les expliquer à des non-spécialistes
+- Utiliser des outils logiciels concrets, en mettant l’accent sur la conception et l’expérimentation du processus de travail
 
 
 
 ## PROGRAMME
-This short course introduces participants to a hands-on development of specialist knowledge in statistical data analysis required to apply data science principles and to provide data-driven, innovative engineering solutions.
+Cette formation présente aux participants un développement pratique des connaissances spécialisées en analyse statistique des données nécessaires pour appliquer les principes de la sdata science et pour fournir des solutions d’ingénierie innovantes basées sur les données.
 
-The course is organised as follows:
+<!--The course is organised as follows:-->
 
-### Fundamentals
-- Data quality and data cleansing; Data preparation (statistical evaluation of data quality, data cleaning and data transformation);
-- Exploring concepts of data cardinality, dimensionality, imbalance, similarity, feature selection;
-- Engineering problem solving using Python Programming.
+### Notions fondamentales
+- Qualité des données et nettoyage des données
+- Préparation des données (évaluation statistique de la qualité des données, nettoyage des données et transformation des données)
+- Exploration des concepts de cardinalité des données, dimensionnalité, déséquilibre, similarité, sélection de caractéristiques
+- Résolution de problèmes d’ingénierie à l’aide de la programmation Python
 
-### Data Pre-Processing
-- Exploratory data visualisation and introduction to statistical concepts relevant to exploration of Big Data;
-- Features engineering (importance, selection, dimensionality reduction, PCA).
+### Prétraitement des données
+- Visualisation exploratoire des données et introduction aux concepts statistiques pertinents pour l’exploration du Big Data
+- Ingénierie des caractéristiques (importance, sélection, réduction de la dimensionnalité, ACP)
 
 ### Statistical Classification
-- Discuss the methods to handle high dimensional data, large-samples, sample splitting;
-- Data-driven algorithms for statistical models of engineering Big Data (classifiers, decision trees, Naïve Bayes);
-- Bootstrap and bagging methods.
+- Méthodes pour traiter les données de grande dimension, les grands échantillons, le fractionnement des échantillons
+- Algorithmes orientés données pour les modèles statistiques d’ingénierie du Big Data (classificateurs, arbres de décision, Naïve Bayes)
+- Méthodes bootstrap et bagging
 
-### Special Topics
-- Introduction to basket market analysis along with association rules;
-- Grouping (k-means, high dimensional clustering, subspace clustering);
-- Text Mining.
+### Sujets spéciaux
+- Introduction à la problématique du panier de la ménagère et aux règles d’association
+- Regroupement (k-means, clustering à haute dimension, sub-space clustering)
+- Exploration de texte
 
-### Mini Project
-- Independent practice through application to a relevant Engineering Big Data individual project.
+### Mini-Projet
+- Mise en pratique par le biais d’une application à un projet individuel d’ingénierie Big Data pertinent
 
 
 
